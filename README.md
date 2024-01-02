@@ -45,6 +45,4 @@
 
 <br clear="both">
 
-<img src="https://nearpod.com/blog/wp-content/uploads/2022/04/timetoclimb-3-1.gif" alt="Snake animation" />
-
 ###
