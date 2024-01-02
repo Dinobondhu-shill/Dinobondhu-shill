@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dinobondhu-shill&show_icons=true&count_private=true&hide=prs&theme=radical&width=220&height=150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinobondhu-shill&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dinobondhu-shill&show_icons=true&width=220&height=150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinobondhu-shill&layout=compact" />
 </div>
 
 ###
