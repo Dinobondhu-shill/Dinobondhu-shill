@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Dinobondhu Shill and I'm a Web Developer, from Bangladesh</h2>
-
+<p>I'm a passionate web developer with 1 year of experience working with React, Node.js, Express.js, MongoDB, Firebase, Tailwind, and Bootstrap. Currently exploring Next.js, I aim to become a dedicated software developer and innovate in the tech industry. Coding and traveling are my passions.</p>
 ###
 
 <div align="center">
