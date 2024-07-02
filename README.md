@@ -80,7 +80,7 @@
 	
  ```
  <!--START_SECTION:waka-->
-   - :octocat: [My Resume](https://drive.google.com/file/d/1tFL1gHFPw3MXzfW98oQEFjs2jQSGiVjw/view?usp=share_link)
+   - :octocat: [My Resume](https://docs.google.com/document/d/1c4V8orCVdjXdRgwB-UZW2kO4_9lAeaRuYEo60R3Lje8)
 
 <h2>Stats</h2>
 <div align="left">
