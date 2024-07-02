@@ -1,4 +1,8 @@
 <h2 align="left">Hi 👋! My name is Dinobondhu Shill and I'm a Web Developer, from Bangladesh</h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/-dinobondhu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinobondhu-shill)]([https://www.linkedin.com/in/dinobondhu-shill])
+[![Gmail Badge](https://img.shields.io/badge/-dinu.webdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dinu.webdev@gmail.com)](mailto:dinu.webdev@gmail.com)
+
 <p>I'm a passionate web developer with 1 year of experience working with React, Node.js, Express.js, MongoDB, Firebase, Tailwind, and Bootstrap. Currently exploring Next.js, I aim to become a dedicated software developer and innovate in the tech industry. Coding and traveling are my passions.</p>
 
 ###
@@ -85,25 +89,6 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=Dinobondhu-shill&show_icons=true&width=300&theme=material-palenight&hide_border=false" alt="GitHub Stats" style="max-width: 50%;" /></p>
    
 </div>
-
-
-
-
-
-
-
-###
-
-
-
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
 ###
 
 <br clear="both">
