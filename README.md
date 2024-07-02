@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dinobondhu Shill and I'm a Web Developer, from Bangladesh</h2>
+<img src="https://i.ibb.co/0sbQfKX/Dinobondhu-Shill.png" alt="Dinobondhu's GitHub README header image">
 
 [![Linkedin Badge](https://img.shields.io/badge/-dinobondhu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinobondhu-shill)]([https://www.linkedin.com/in/dinobondhu-shill])
 [![Gmail Badge](https://img.shields.io/badge/-dinu.webdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dinu.webdev@gmail.com)](mailto:dinu.webdev@gmail.com)
