@@ -42,6 +42,8 @@
   <img width="12"/>
 </div>
 
+
+### 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinobondhu-shill&layout=compact" alt="Top Languages" style="max-width: 50%;" /></p>
         
 
@@ -74,14 +76,13 @@
 	
  ```
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C174%20hrs%2053%20mins-blue)
-
+   - :octocat: [My Resume](https://drive.google.com/file/d/1tFL1gHFPw3MXzfW98oQEFjs2jQSGiVjw/view?usp=share_link)
 
 <h2>Stats</h2>
-<div align="center">
+<div align="left">
     <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dinobondhu-shill&theme=material-palenight&hide_border=false" alt="Dinobondhu-shill" style="max-width: 50%;" /></p>
    
-    <p><img src="https://github-readme-stats.vercel.app/api?username=Dinobondhu-shill&show_icons=true&width=300&theme=material-palenight&hide_border=false" alt="GitHub Stats" style="max-width: 50%;" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Dinobondhu-shill&show_icons=true&width=300&theme=material-palenight&hide_border=false" alt="GitHub Stats" style="max-width: 50%;" /></p>
    
 </div>
 
