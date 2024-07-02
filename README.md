@@ -1,18 +1,20 @@
 <h2 align="left">Hi 👋! My name is Dinobondhu Shill and I'm a Web Developer, from Bangladesh</h2>
 <p>I'm a passionate web developer with 1 year of experience working with React, Node.js, Express.js, MongoDB, Firebase, Tailwind, and Bootstrap. Currently exploring Next.js, I aim to become a dedicated software developer and innovate in the tech industry. Coding and traveling are my passions.</p>
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dinobondhu-shill&show_icons=true&width=220&height=150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinobondhu-shill&layout=compact" />
-</div>
 
 ###
+## Tools
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
+<a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="40"/>
+  <a href="https://www.canva.com" target="_blank">
+  <img src="https://www.canva.com/favicon.ico" alt="canva" width="40" height="40"/>
+</a>
 
-###
+<h2>Technology Stack</h2>
 
+<img align="right" height="120" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -33,6 +35,18 @@
 </div>
         
 ###
+
+###
+<h2>Stats</h2>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dinobondhu-shill&show_icons=true&width=200&height=150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinobondhu-shill&layout=compact" />
+</div>
+
+###
+
+
+
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
